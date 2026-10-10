@@ -1,0 +1,16 @@
+{
+  "name": "backendproyecto",
+  "version": "1.0.0",
+  "description": "Backend for the proyect",
+  "license": "ISC",
+  "author": "Annan John",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
